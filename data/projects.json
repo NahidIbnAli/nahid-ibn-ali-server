@@ -1,0 +1,93 @@
+[
+  {
+    "name": "eBay Cars",
+    "coverImage": "https://i.ibb.co/BGPt7b7/e-Bay-Cars.png",
+    "images": [
+      "https://i.ibb.co/2FZXrPS/e-Bay-Cars-3.png",
+      "https://i.ibb.co/ZJqFGcd/e-Bay-Cars-1.png",
+      "https://i.ibb.co/tbJyR3J/e-Bay-Cars-2.png"
+    ],
+    "link": "ebay-cars",
+    "description": "A full-stack single-page used car buying and selling web app where people can buy and sell their car.",
+    "features": [
+      "Login system with firebase, private routes and dashboard for admins and users.",
+      "Users can book for a car and monitor their booking list.",
+      "Seller can add their product and monitor their all products.",
+      "Seller can advertise their product and all advertised items will be display to the advertisement section.",
+      "Admin can add a new admin and delete all types of users from the site.",
+      "Admin can make any seller verified and after verifying the blue check sign will add next to the seller's name.",
+      "Minimalistic UI, great UX and fully responsive"
+    ],
+    "technologies": [
+      "React.js",
+      "Tailwind CSS",
+      "Daisy UI",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Stripe.js",
+      "JWT",
+      "Firebase Authentication"
+    ],
+    "liveSite": "https://ebay-cars.web.app/",
+    "frontEndLink": "https://github.com/NahidIbnAli/ebay-cars",
+    "backEndLink": "https://github.com/NahidIbnAli/ebay-cars-server"
+  },
+  {
+    "name": "Get Snappy",
+    "coverImage": "https://i.ibb.co/CzWQ8sV/get-snappy.png",
+    "images": [
+      "https://i.ibb.co/dtk1swH/My-Reviews.png",
+      "https://i.ibb.co/G3dhxrw/Services-Details.png",
+      "https://i.ibb.co/0sttJhr/Login.png"
+    ],
+    "link": "get-snappy",
+    "description": "A full-stack single-page photography service review web app where user can give review and monitor their review.",
+    "features": [
+      "Login system with firebase and private routes",
+      "Users can give review and monitor their reviewlist.",
+      "Users can delete or update their review",
+      "Multi-column layout: See at a quick glance all the services and the reviews.",
+      "Minimalistic UI, great UX and fully responsive"
+    ],
+    "technologies": [
+      "React.js",
+      "React Bootstrap",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase Authentication"
+    ],
+    "liveSite": "https://get-snappy.web.app/",
+    "frontEndLink": "https://github.com/NahidIbnAli/get-snappy",
+    "backEndLink": "https://github.com/NahidIbnAli/get-snappy-server"
+  },
+  {
+    "name": "Coding Ninja",
+    "coverImage": "https://i.ibb.co/vZwwJS3/Coding-Ninja.png",
+    "images": [
+      "https://i.ibb.co/3kP8W3f/Coding-Ninja.png",
+      "https://i.ibb.co/zPMPgkS/Coding-Ninja-2.png",
+      "https://i.ibb.co/V2dxybj/Coding-Ninja-3.png"
+    ],
+    "link": "coding-ninja",
+    "description": "A full-stack single-page Ed-Tech web app where users can buy premium access and more.",
+    "features": [
+      "Login system with firebase and private routes",
+      "Users can buy premium access for the courses",
+      "Users can download any course details in pdf file by clicking on download button",
+      "Multi-column layout: See at a quick glance all the courses",
+      "Minimalistic UI, great UX and fully responsive"
+    ],
+    "technologies": [
+      "React.js",
+      "React Bootstrap",
+      "Node.js",
+      "Express.js",
+      "Firebase Authentication"
+    ],
+    "liveSite": "https://coding-ninja-ffac7.web.app/",
+    "frontEndLink": "https://github.com/NahidIbnAli/coding-ninja",
+    "backEndLink": "https://github.com/NahidIbnAli/coding-ninja-server"
+  }
+]
